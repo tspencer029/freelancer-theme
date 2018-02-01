@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 2018-02-01
+date: 2014-02-01
 img: react-logo.png
 alt: image-alt
 project-date: January 2018
