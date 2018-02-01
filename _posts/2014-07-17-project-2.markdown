@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
+date: 2017-10-02
+img: burger-trans.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: October 2017
+client: In-class Project
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: This was a project about creating a custom burger ordering website and mobile app, there also needed to be a staff website that would load orders to be fulfilled and stock levels from the database. You can view my part of the project on github <a href="https://github.com/tspencer029/burgerordering">here</a>. My part of the project was to develop the staff website in JavaScript that loaded burger orders from our Google Cloud database and diaplayed them on screen. This website also displayed stock levels and allowed the user to update stock levels when they were low. This website was also password protected so only staff members could access it.
 
 ---
