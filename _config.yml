@@ -56,7 +56,8 @@ address:
   - line: New Zealand
 
 # Credits content
-credits: 'I built this website in Jekkyl based on a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'I built this website in Jekkyl based on a free to use, open source Bootstrap theme created by
+          <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
