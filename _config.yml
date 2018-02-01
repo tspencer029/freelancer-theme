@@ -1,11 +1,11 @@
 # Site settings
 title: Tyler Spencer
 email: tspencer029@gmail.com
-url: https://example.github.io
+url: https://tyler-spencer.com
 description: "Tyler Spencer, Web and Software Developer"
 keywords: "your keywords, separated by commas"
 skills: "Web Developer - Software Developer - Photographer"
-meta_author: LastName FirstName
+meta_author: Spencer Tyler
 
 # Google webmaster tools
 google_verify:
@@ -32,21 +32,21 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Tyler Spencer
   location: Location
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
+#  - title: twitter
+#    url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
+    url: https://www.facebook.com/tspencer029
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://stackoverflow.com/users/8213100/tyler-spencer?tab=profile
+#  - title: bitbucket
+#    url: http://bitbucket.org/jekyll
   - title: github
     url: https://github.com/tspencer029
 
@@ -56,7 +56,7 @@ address:
   - line: New Zealand
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'I built this website in Jekkyl based on a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
