@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2018-02-01
-img: react-logo-crop.png
+img: iwanttoexperiencelogo-01.svg
 alt: image-alt
 project-date: January 2018
 client: I Want to Experience
