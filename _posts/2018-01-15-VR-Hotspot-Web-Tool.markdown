@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2018-02-01
-img: game.png
+img: Gamepad.png
 alt: image-alt
 project-date: January 2018
 client: A Wellington based VR company
