@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2017-10-02
-img: burger-trans.png
+img: hamburger.png
 alt: image-alt
 project-date: October 2017
 client: In-class Project
